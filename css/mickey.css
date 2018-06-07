@@ -1,0 +1,34 @@
+.face {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  color: #000;
+  top: 0px;
+  left: 0px;
+  border-radius: 100%;
+  box-shadow: 400px 200px 0 0 currentcolor;
+}
+
+.ears {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 100%;
+  box-shadow:
+    350px 120px 0 0 currentcolor,
+    550px 120px 0 0 currentcolor;
+}
+
+.eyes {
+  width: 23px;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 100%;
+  box-shadow:
+    476px 278px 0 0 #fff,
+    548px 278px 0 0 #fff;
+}
